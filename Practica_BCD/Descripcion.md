@@ -33,6 +33,9 @@ Este proyecto implementa un **decodificador BCD** en una **FPGA** utilizando **Q
 ![Captura de pantalla 2025-02-25 103647](https://github.com/user-attachments/assets/c0ea4f1d-29c8-48a1-83d4-ee5f4101706d)
 ![Captura de pantalla 2025-02-25 103754](https://github.com/user-attachments/assets/f1365628-0920-4f03-a5e1-408c197c2b56)
 
+## Wave
+![image](https://github.com/user-attachments/assets/3c60b328-ce3f-455c-adc4-2aa733eb1497)
+
 ## Funcionalidad
 
 ✔ Convierte valores binarios a BCD.  
