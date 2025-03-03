@@ -13,15 +13,25 @@ Este proyecto implementa **contadores y decodificadores BCD** en una **FPGA** ut
 
 ## Estructura del Proyecto  
 /Counter_BCD
+
 │── clk_div.v # Módulo para la división de frecuencia del reloj
+
 │── counter.v # Módulo de contador en binario
+
 │── counter_bcd.v # Módulo para conversión de binario a BCD
+
 │── bcd_decoder.v # Decodificador BCD para display de 7 segmentos
+
 │── bin_a_dec.v # Conversión de binario a decimal
+
 │── segment7.v # Controlador para display de 7 segmentos
+
 │── counter_tb.v # Testbench para simulación del contador
+
 │── counter.qpf # Archivo del proyecto en Quartus
+
 │── counter.qsf # Archivo de configuración del FPGA
+
 │── README.md # Este archivo
 
 ## Funcionalidad  
