@@ -12,7 +12,7 @@ Este proyecto implementa **contadores y decodificadores BCD** en una **FPGA** ut
 - **Cable de programación JTAG**  
 
 ## Estructura del Proyecto  
-/Counter_BCD
+Counter_BCD
 
 │── clk_div.v # Módulo para la división de frecuencia del reloj
 
