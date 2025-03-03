@@ -34,6 +34,13 @@ Counter_BCD
 
 │── README.md # Este archivo
 
+## RTL View
+![image](https://github.com/user-attachments/assets/98a90f72-a498-4034-8361-885c11752c83)
+
+![image](https://github.com/user-attachments/assets/2c1cd494-c2d8-4724-b90e-1896b876afb3)
+
+
+
 ## Funcionalidad  
 
 ✔ Contador en binario con conversión a BCD  
