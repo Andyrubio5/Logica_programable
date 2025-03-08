@@ -45,6 +45,7 @@ Este proyecto implementa un **medidor de frecuencia** en una **FPGA DE10-Lite** 
 ```
 
 ## **RTL View**
+![image](https://github.com/user-attachments/assets/67c0c8f8-2e6b-4571-869d-d232ebcf8548)
 
 
 ## **Funcionalidad**
